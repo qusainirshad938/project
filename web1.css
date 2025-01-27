@@ -1,0 +1,136 @@
+.mainnnn{
+    display: flex;
+    justify-content: end ;
+    padding-top: 119px;
+    padding-bottom: 119px;
+    /* border: 2px solid black; */
+    padding-right: 150px;
+}
+.maindiv1{
+    /* display: flex; */
+    border-radius: 7px;
+    box-shadow: 0 0 15px rgb(207, 201, 191);
+    width: 350px;
+    padding: 10px;
+    background-color:rgb(249, 249, 246) ;
+    /* border: 2px solid black; */
+}
+.maindiv2{
+    padding-left:15px;
+    padding-top: 10px;
+    width: fit-content ;
+    height: 320px;
+    background-color:transparent;
+    
+}
+.button2 {
+    background-color:rgb(73, 107, 243);
+    color: white;
+    border-radius: 5px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 320px;
+    height: 47px;
+    border: none;
+}
+.button2:hover {
+    background-color:rgb(73, 107, 243)  ;
+    color: white;      
+    border-radius: 5px;
+    box-shadow: 0 0 13px rgb(73, 107, 243);
+    }
+    .btn_div{
+        padding-right: 20px;
+        display: flex;
+        justify-content:end;
+        border-radius: 5px;
+    }
+.email:hover{
+    border:none;
+    box-shadow: 0 0 13px rgb(73, 107, 243);
+    border-radius: 5px;
+}
+.email{
+    height: 40px;
+    width: 295px;
+    border:1px solid blue;
+    font-size: large;
+    /* margin-left: 20px; */
+    padding-left: 20px;
+    border-radius: 5px;
+}
+.password:hover{
+    box-shadow: 0 0 13px rgb(73, 107, 243);
+    border-radius: 5px;
+    border: none;
+}
+.password{
+    border-radius: 5px;
+    border:1px solid blue;
+    height: 40px;
+    width: 295px;
+    font-size: large;
+    padding-left: 20px;
+}
+.pass_inp{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.img{
+    background-image: url();
+}
+.forgotten:hover{
+    text-decoration: underline blue;
+}
+.forgotten{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+
+}
+.line{
+    padding-top: 10px;
+    /* border: 2px solid black; */
+}
+
+.btn_acc{
+    padding-top: 20px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: center;
+}
+.btn_acc2:hover{
+     background-color:rgb(34, 188, 70)  ;
+    color: white;      
+    border-radius: 5px;
+    box-shadow: 0 0 13px rgb(34, 188, 70);
+}
+.btn_acc2{
+    background-color:rgb(34, 188, 70);
+    color: white;
+    border-radius: 5px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: fit-content;
+    height: 47px;
+    border: none;
+}
+
+.facebook{
+    font-size: 30px;
+    font-weight: 900;
+    /* border: 2px solid black; */
+    padding-right: 150px;
+    padding-top: 65px;
+    padding-left: 50px;
+    /* font-family: ; */
+}
+.pp{
+    font-size:25px;
+
+}
+.texttt{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
